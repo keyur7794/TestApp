@@ -1,0 +1,20 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "email-validator": "^1.1.1",
+    "express": "^4.16.2",
+    "md5": "^2.2.1",
+    "mysql": "^2.15.0",
+    "nodemailer": "^4.4.2",
+    "password-validator": "^4.0.0"
+  }
+}
